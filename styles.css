@@ -1,0 +1,9 @@
+body {
+    font-family: system-ui;
+    background: linear-gradient(135deg, #F6D365, #FDA085);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
